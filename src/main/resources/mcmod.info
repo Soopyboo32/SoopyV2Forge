@@ -1,0 +1,16 @@
+[
+{
+  "modid": "soopyv2forge",
+  "name": "SoopyV2Forge",
+  "description": "Rendering optimisations for the chattriggers module soopyv2",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Soopyboo32"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
